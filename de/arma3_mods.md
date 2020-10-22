@@ -17,7 +17,7 @@ Nachdem dieser eingerichtet wurde, kann sich nun verbunden werden und der Server
 
 ## Vorbereitung
 
-Um Mods auf dem Server zu installieren, müssen wir diese zunächst im Steam-Workshop abonnieren:
+Erstmal Richtig jemanden Deddosen
 
 ![](https://screensaver01.zap-hosting.com/index.php/s/fipYamHgWYPR2RD/preview)
 
